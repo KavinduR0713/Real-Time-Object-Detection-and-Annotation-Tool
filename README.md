@@ -61,6 +61,8 @@ S×S grid. Each grid cell is responsible for predicting a fixed number of boundi
 
 ## Output
 
+https://github.com/KavinduR0713/Real-Time-Object-Detection-and-Annotation-Tool/assets/105490780/e8dde608-e3a2-4285-b715-4796a4b230b4
+
 ![Output](https://github.com/KavinduR0713/Real-Time-Object-Detection-and-Annotation-Tool/assets/105490780/fc093143-c758-418b-a81b-796b9c65fd57)
 
 In this example, the YOLOv3 algorithm detects multiple objects, such as a Dog and a Cat, in a single image. Each object is marked with a bounding box and labeled with its class name and confidence score. The bounding boxes are drawn with increased thickness and labels have highlighted backgrounds to ensure clarity.

@@ -61,7 +61,9 @@ S×S grid. Each grid cell is responsible for predicting a fixed number of boundi
 
 ## Output
 
+![Output](https://github.com/KavinduR0713/Real-Time-Object-Detection-and-Annotation-Tool/assets/105490780/fc093143-c758-418b-a81b-796b9c65fd57)
 
+In this example, the YOLOv3 algorithm detects multiple objects, such as a Dog and a Cat, in a single image. Each object is marked with a bounding box and labeled with its class name and confidence score. The bounding boxes are drawn with increased thickness and labels have highlighted backgrounds to ensure clarity.
 
 ## Conclusion
 The Real-Time Object Detection and Annotation Tool serves as a comprehensive guide for integrating object detection into data science workflows. It highlights the importance of preprocessing, model integration, parameter tuning, and visualization, offering valuable insights for data scientists and machine learning practitioners. By providing a detailed implementation and focusing on data science aspects, this project aims to bridge the gap between theoretical knowledge and practical application.
